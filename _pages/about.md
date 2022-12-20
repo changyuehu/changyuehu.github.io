@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>University of Illinois at Urbana-Champaign</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -18,7 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Changyue Hu! Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I'm Changyue Hu! I am a second-year a Ph.D. student in the Department of Mathematics at the University of Illinois at Urbana-Champaign, with a concentration in Actuarial Science and Risk Analytics. Prior to joining the doctoral program, I obtained a Master’s degree in Actuarial Science at the University of Illinois and a Bachelor’s degree in Mathematics at Nankai University. My research interests lie in machine learning applications in actuarial science, especially with tree-based models. I have been a graduate supervisor of several InsurTech-related research projects in [IRisk Lab](https://asrm.illinois.edu/illinois-risk-lab/) since Spring 2021.
+
+Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
