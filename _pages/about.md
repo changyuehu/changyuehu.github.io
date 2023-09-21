@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: /about/
 subtitle: <a href='https://asrm.illinois.edu'>Ph.D. Student @ UIUC ASRM</a>
 profile:
   align: right

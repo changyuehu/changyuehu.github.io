@@ -1,0 +1,27 @@
+- title: Teaching Assistant
+  type: time_table
+  contents:
+    - title: ASRM 461 Loss Models
+      year: 2023 Fall
+      description: TA
+    - title: ASRM 462/561 Advanced Loss Models
+      year: 2023 Fall
+      description: TA
+    - title: MATH 563 Risk Modeling
+      year: 2023 Fall
+      description: TA
+    - title: ASRM 461 Loss Models
+      year: 2022 Fall
+      description: TA
+    - title: ASRM 561 Advanced Loss Models
+      year: 2022 Fall
+      description: TA
+    - title: ASRM 195-Foundations of Data Management
+      year: 2022 Fall
+      description: TA
+    - title: ASRM 210 Theory of Interest
+      year: 2022 Spring
+      description: TA
+    - title: ASRM 499-Statistics for Risk Modeling
+      year: 2022 Spring
+      description: TA
