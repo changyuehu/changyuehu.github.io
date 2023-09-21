@@ -2,23 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Illinois at Urbana-Champaign</a>. Address. Contacts. Moto. Etc.
-
+subtitle: <a href='#'>Ph.D. Student @ UIUC</a>
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p><i class="fa-solid fa-envelope"></i> ch47@illinois.edu</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
+    # <i class="fa-solid fa-location-dot" ></i><p>Champaign, IL</p>
+    # <a href="mailto:ch47@illinois.edu" title="Email"><i class="fa-regular fa-envelope"></i></a>
+    # <a href="https://www.linkedin.com/in/changyue-hu-ch0227/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+    # <a href="https://github.com/changyuehu" title="GitHub"><i class="fab fa-github"></i></a>
+    # <a href="https://scholar.google.com/citations?user=OfBvc3AAAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+    
+  
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-I am a second-year a Ph.D. student in [Actuarial Science](https://asrm.illinois.edu) at the University of Illinois at Urbana-Champaign, advised by Prof. [Zhiyu Quan](https://www.linkedin.com/in/zhiyufrankquan/). Prior to joining the doctoral program, I obtained a Master’s degree in Actuarial Science at the University of Illinois and a Bachelor’s degree in Mathematics at Nankai University. My research interests lie in machine learning applications in actuarial science, especially with tree-based models. I have been a graduate supervisor of several InsurTech-related research projects in [IRisk Lab](https://asrm.illinois.edu/illinois-risk-lab/) since Spring 2021.
+<!-- <a href="mailto:ch47@illinois.edu" title="Email"><i class="fa-regular fa-envelope"></i></a> 
+<a href="https://www.linkedin.com/in/changyue-hu-ch0227/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+<a href="https://github.com//changyuehu" title="GitHub"><i class="fab fa-github"></i></a>
+<a href="https://scholar.google.com/citations?user=OfBvc3AAAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar"></i></a> -->
+I am a second-year a Ph.D. student in [Actuarial Science](https://asrm.illinois.edu) at the University of Illinois at Urbana-Champaign, advised by Prof. [Zhiyu Quan](https://www.linkedin.com/in/zhiyufrankquan/). Prior to joining the doctoral program, I obtained a Master’s degree in Actuarial Science at the University of Illinois and a Bachelor’s degree in Mathematics at Nankai University. My research interests lie in machine learning applications in actuarial science, especially with tree-based models. I have been a graduate supervisor of several InsurTech-related research projects in [IRisk Lab](https://asrm.illinois.edu/illinois-risk-lab/) since Spring 2021. 
 
 Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
