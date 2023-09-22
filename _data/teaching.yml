@@ -1,5 +1,6 @@
 - title: Teaching Assistant
   type: time_table
+  contents:
     - year: 2023 Fall
       description: 
       - ASRM 461 Loss Models
@@ -19,6 +20,4 @@
       - ASRM 510 Financial Mathematics
       - MATH 225 Introductory Matrix Theory
       - MATH 461 Probability
-    # - title: ASRM 499-Statistics for Risk Modeling
-      # year: 2022 Spring
-      # description: TA
+    
