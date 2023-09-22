@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /about/
+permalink: /
 subtitle: <a href='https://asrm.illinois.edu'>Ph.D. Student @ UIUC ASRM</a>
 profile:
   align: right
@@ -24,4 +24,4 @@ social: true  # includes social icons at the bottom of the page
 <a href="https://www.linkedin.com/in/changyue-hu-ch0227/" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
 <a href="https://github.com//changyuehu" title="GitHub"><i class="fab fa-github"></i></a>
 <a href="https://scholar.google.com/citations?user=OfBvc3AAAAAJ&hl=en&oi=ao" title="Google Scholar"><i class="ai ai-google-scholar"></i></a> -->
-I am a third-year a Ph.D. student in [Actuarial Science](https://asrm.illinois.edu) at the University of Illinois at Urbana-Champaign, advised by Prof. [Zhiyu Quan](https://www.zhiyuquan.net). Prior to joining the doctoral program, I obtained a Master’s degree in Actuarial Science at the University of Illinois and a Bachelor’s degree in Mathematics at Nankai University. My research interests lie in machine learning applications in actuarial science, especially with tree-based models. I have been a graduate supervisor of several InsurTech-related research projects in [IRisk Lab](https://asrm.illinois.edu/illinois-risk-lab/) since Spring 2021. 
+I am a third-year a Ph.D. student in [Actuarial Science](https://asrm.illinois.edu) at the University of Illinois at Urbana-Champaign, advised by Prof. [Zhiyu Quan](https://www.zhiyuquan.net). Prior to joining the doctoral program, I obtained a Master’s degree in Actuarial Science at the University of Illinois and a Bachelor’s degree in Mathematics at Nankai University. My research interests lie in machine learning applications in actuarial science. I have been a graduate supervisor of several InsurTech-related research projects in [IRisk Lab](https://asrm.illinois.edu/illinois-risk-lab/) since Spring 2021. 
