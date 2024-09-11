@@ -13,7 +13,7 @@
   contents:
     - title: Ph.D., Mathematics with a Concentration in Actuarial Science and Risk Analytics.
       institution: University of Illinois Urbana-Champaign, USA.
-      year: 2021-2026
+      year: 2021-Present
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -74,21 +74,29 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - James C. Hickman Scholar Doctoral Stipend, Society of Actuaries.
+        - PARM Summer Research Fellowship, University of Illinois Urbana-Champaign.
     - year: 2023
       items: 
-        - Esther Portnoy Actuarial Science Scholarship
+        - Esther Portnoy Actuarial Science Scholarship, University of Illinois Urbana-Champaign.
     - year: 2022
       items: 
-        - The 57th Actuarial Research Conference Presentation Prize
-        - Illinois Risk Lab Award
-        - State Farm Actuarial Science Scholarship
+        - The 57th Actuarial Research Conference Presentation Prize, Society of Actuaries.
+        - Illinois Risk Lab Award, University of Illinois Urbana-Champaign.
+        - State Farm Actuarial Science Scholarship, University of Illinois Urbana-Champaign.
     - year: 2021
       items:
-        - The 56th Actuarial Research Conference Presentation Prize
+        - The 56th Actuarial Research Conference Presentation Prize, Society of Actuaries.
 
 - title: Presentations
   type: time_table
   contents:
+    - year: 2024
+      title: NLP-Powered Repository and Search Engine for Academic Papers, A Case Study on Cyber Risk Literature with CyLit
+      items: 
+      - The 27th International Congress on Insurance, Mathematics and Economics, Depaul University, Chicago, USA.
     - year: 2023
       title: NLP-Powered Repository and Search Engine for Academic Papers, A Case Study on Cyber Risk Literature with CyLit. 
       items: 

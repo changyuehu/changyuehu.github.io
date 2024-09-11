@@ -1,31 +1,34 @@
 - title: Teaching Assistant
   type: time_table
   contents:
+    - year: 2024 Fall
+      items: 
+      - ASRM 461 Loss Models
     - year: 2024 Spring
-      description: 
+      items: 
       - ASRM 441 Statistics for Risk Modeling I
       - ASRM 469 Casualty Actuarial Mathematics 
     - year: 2023 Fall
-      description: 
+      items:
       - ASRM 461 Loss Models
       - ASRM 462/561 Advanced Loss Models 
       - MATH 563 Risk Modeling
     - year: 2022 Fall
-      description: 
+      items: 
       - ASRM 195 Foundations of Data Management
       - ASRM 461 Loss Models (Teachers Ranked as Excellent by Their Students)
       - ASRM 561 Advanced Loss Models
     - year: 2022 Spring 
-      description: 
+      items: 
       - ASRM 210 Theory of Interest
       - ASRM 499 Statistics for Risk Modeling
     - year: 2021 Fall
-      description:
+      items:
       - ASRM 510 Financial Mathematics
       - MATH 225 Introductory Matrix Theory
       - MATH 461 Probability
     - year: 2021 Spring
-      description:
+      items:
       - ASRM 455 Predictive Analytics
       - ASRM 461 Loss Models
     
