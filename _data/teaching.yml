@@ -1,5 +1,6 @@
+
 - title: Teaching Assistant
-  type: time_table
+  type: nested_list
   contents:
     - year: 2024 Fall
       items: 
