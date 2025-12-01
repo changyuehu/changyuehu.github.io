@@ -13,7 +13,7 @@
   contents:
     - title: Ph.D., Mathematics with a Concentration in Actuarial Science and Risk Analytics.
       institution: University of Illinois Urbana-Champaign, USA.
-      year: 2021-Present
+      year: 2021-2026
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -71,9 +71,16 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+- title: Fellowships, Grants & Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - James C. Hickman Scholar Doctoral Stipend, Society of Actuaries.
+        - The 60th Actuarial Research Conference Presentation Prize, Society of Actuaries.
+        - Committee on Knowledge Extension Research Actuarial Research Conference Travel Grant, Society of Actuaries.
+        - Teachers Ranked as Excellent by Their Students, University of Illinois Urbana-Champaign.
+        - PARM Summer Research Fellowship, University of Illinois Urbana-Champaign.
     - year: 2024
       items:
         - James C. Hickman Scholar Doctoral Stipend, Society of Actuaries.
@@ -94,6 +101,10 @@
 - title: Presentations
   type: time_table
   contents:
+    - year: 2025
+      title: NLP-Powered Industry Classification Based on Business Information
+      items: 
+      - The 60th Actuarial Research Conference, York University, Toronto, Ontario, Canada.
     - year: 2024
       title: NLP-Powered Repository and Search Engine for Academic Papers, A Case Study on Cyber Risk Literature with CyLit
       items: 
